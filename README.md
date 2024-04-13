@@ -6,11 +6,14 @@ This capstone project explores Amazon customer sales data from 2020 to 2023, pro
 
 ## Files Included:
 
-### Advanced Excel Workbook: ### An Excel workbook containing complete data set of 49,674 rows.
+### MS Excel Workbook: ### 
+An Excel workbook containing complete data set of 49,674 rows.
 
-### PostgresSQL Script: ### Contains the SQL queries used to extract and manipulate data from the Amazon customer sales database. 
+### PostgresSQL Script: ### 
+Contains the SQL queries used to extract and manipulate data from the Amazon customer sales database. 
 
-### Power BI Report: ### A BI report showcasing sales summary by category and detailed customer data analysis. The report consists of two main pages:
+### Power BI Report: ### 
+A BI report showcasing sales summary by category and detailed customer data analysis. The report consists of two main pages:
 
 Sales Summary: Provides an overview of sales performance across different product categories.
 
