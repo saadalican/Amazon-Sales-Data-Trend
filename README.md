@@ -29,7 +29,6 @@ Adjust the database connection details as needed to ensure compatibility with yo
 Open the Power BI report file using Power BI Desktop.
 Refresh the data connection to fetch the latest dataset.
 Navigate between the "Sales Summary" and "Customer data in detail" pages to explore the insights.
-Advanced Excel Workbook:
 
 ### MS Excel: ###
 
